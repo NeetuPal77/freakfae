@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @freakfae
+- 👋 Hi, I’m Neetu 
 - 👀 I’m interested in sketching and animation 
-- 🌱 I’m currently learning c++
-- 💞️ I’m looking to collaborate on creative projects 
+- 🌱 I’m currently learning c
 - 📫 How to reach me ...
 - 😄 Pronouns: fae
 - ⚡ Fun fact: I'm kinda weird
